@@ -71,14 +71,31 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** - Rood -
 
-**Je focus:** - Ik zal er aan het begin voor kiezen om beide planes toe te passen en zullen we in de toekomst zien hoe dit zijn wending neemt-
+**Je focus:** - Ik zal er aan het begin voor kiezen om beide planes toe te passen en zullen we in de toekomst zien hoe dit zijn wending neemt -
 
 **Je opdracht:** - Ik heb gekozen voor de website van "Nike". https://www.nike.com/nl/ Dit is de link -
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Nikenavbar.png" width="375px" alt="De navigatie balk van de nike website">
+<img src="images/nikenavbar.png" width="375px" alt="De navigatie balk van de nike website">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Nikeheader.png" width="375px" alt="De head, van de webiste met de sales die nike op dit moment heeft lopen">
+<img src="images/nikeheader.png" width="375px" alt="De head, van de webiste met de sales die nike op dit moment heeft lopen">
+
+Idee 2:
+-uitwerken voor de kick-off werkgroep - begin van de eerste week-
+
+**Je startniveau:** - Rood -
+
+**Je focus:** - Ik zal er aan het begin voor kiezen om beide planes toe te passen en zullen we in de toekomst zien hoe dit zijn wending neemt -
+
+**Je opdracht:** - Ik heb gekozen voor de website van "Playstation". https://www.playstation.com/nl-nl/ - Dit is de link -
+
+**Screenshot(s) van de eerste pagina (small screen):**
+
+<img src="images/psnavbar.png" width="375px" alt="De navigatie balk van de nike website">
+
+**Screenshot(s) van de tweede pagina (small screen):**
+
+<img src="images/pshead.png" width="375px" alt="De head, van de webiste met de sales die nike op dit moment heeft lopen">
