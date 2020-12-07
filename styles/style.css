@@ -3,13 +3,23 @@
   box-sizing:border-box;
 }
 
-
+img{
+    max-width: 100%;
+}
 body{
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
-
-
 }
+
+nav{
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+
+li  img:first-of-type{
+}
+
 
 h1{
     color:#FFFFFF;
@@ -23,10 +33,51 @@ h1{
 }
 
 
-header{
+.maincontent{
     max-width: 1920px;
     padding: 0 14px 0 16px;
     opacity: 1;
     background: url("../images/headerfotomain.jpg");
+
+}
+.maincontent a{
+        text-decoration: none;
+
 }
 
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+header button,
+header a{
+    width: 2em;
+    text-indent: -666em;
+    height: 2em;
+    border: none;
+    display: block;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+header button{
+        background-image:url(../images/navigatie.svg);
+        background-size: cover;
+}
+
+header ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+header ul li a{
+    background-color: pink;
+
+}
+
+header  nav ul li:first-of-type{
+    margin-right: auto;
+
+}
